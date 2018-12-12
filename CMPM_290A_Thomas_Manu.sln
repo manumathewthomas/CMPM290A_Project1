@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMPM_290A_Thomas_Manu", "CMPM_290A_Thomas_Manu.csproj", "{5F2F2F91-5BF6-C6B4-519E-46601DB69779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMPM_290A_Thomas_Manu.Editor", "CMPM_290A_Thomas_Manu.Editor.csproj", "{86BCBBA7-D05A-B70E-7827-C8D159010A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2F2F91-5BF6-C6B4-519E-46601DB69779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F2F91-5BF6-C6B4-519E-46601DB69779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F2F91-5BF6-C6B4-519E-46601DB69779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F2F91-5BF6-C6B4-519E-46601DB69779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BCBBA7-D05A-B70E-7827-C8D159010A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BCBBA7-D05A-B70E-7827-C8D159010A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BCBBA7-D05A-B70E-7827-C8D159010A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BCBBA7-D05A-B70E-7827-C8D159010A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
